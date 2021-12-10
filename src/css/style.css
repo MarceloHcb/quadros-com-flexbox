@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css2?family=Public+Sans:wght@300;400;500;600;700;800&display=swap');
+.container{
+    display: flex;      
+    height: 689px;  
+    color:white;
+    align-items: center;
+    
+  
+}
+
+
+.frame-rome{
+    display: flex;    
+    width: 335.64px;
+    height: 431.86px ;
+    background:url(../images/6.jpg) center center ;
+    background-size: cover;   
+    align-items: flex-end;
+    margin: 18.41px ;  
+    padding: 26px;
+   
+}
+
+.frame-st1{
+    display: flex;    
+    width: 335.64px;
+    height: 431.86px ;
+    background:url(../images/3.jpg) center center ;
+    background-size: cover;
+    
+    align-items: flex-end;
+    margin: 18.41px ;
+   
+    padding: 26px;
+   
+}
+
+.frame-sas{
+    display: flex;    
+    width: 335.64px;
+    height: 431.86px ;
+    background:url(../images/4.jpg) center center ;
+    background-size: cover;   
+    align-items: flex-end;
+    margin: 18.41px ;   
+    padding: 26px;
+   
+}
+
+.frame-st2{
+    display: flex;    
+    width: 335.64px;
+    height: 431.86px ;
+    background:url(../images/5.jpg) center center ;
+    background-size: cover;   
+    align-items: flex-end;
+    margin: 18.41px;    
+    padding: 26px;
+   
+}
+
+
+
+.frame h2{
+    font-size: 30px;
+    font-weight: 700;
+
+}
+
+.frame p{
+    font-size: 17px;
+    
+}
+
