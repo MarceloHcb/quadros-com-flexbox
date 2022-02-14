@@ -15,7 +15,10 @@
     background-size: cover;   
     align-items: flex-end;
     margin: 18.41px;  
-    padding: 26px;   
+    padding: 26px;       
+}
+.frame:hover{
+transform: scale(1.1);
 }
 .frame-st1{
     display: flex;    
